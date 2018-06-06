@@ -5,6 +5,6 @@
 
 ![alt text](https://raw.githubusercontent.com/machester4/consolaDelClima/master/demo/demo.png)
 
-##Ejemplo: 
+## Ejemplo: 
 
 ```node app -d montevideo,capurro uruguay```
