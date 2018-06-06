@@ -3,7 +3,7 @@
 
 ```npm install```
 
-![alt text](https://raw.githubusercontent.com/machester4/consolaDelClima/branch/demo/demo.png)
+![alt text](https://raw.githubusercontent.com/machester4/consolaDelClima/master/demo/demo.png)
 
 ##Ejemplo: 
 
